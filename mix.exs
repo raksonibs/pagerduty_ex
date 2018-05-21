@@ -38,7 +38,7 @@ defmodule PagerdutyEx.Mixfile do
   defp deps do
     [
       {:cowboy, "~> 1.0", only: :test},
-      {:httpoison, "~> 0.11.1"},
+      {:httpoison, "~> 0.13.0"},
       {:poison, "~> 3.1"},
       {:retry, "~> 0.6"},
     ]
