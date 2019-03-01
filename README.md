@@ -1,6 +1,6 @@
 # PagerdutyEx
 
-A simple client library for PagerDuty API v2.
+A simple client library for PagerDuty API v2. Fully supported. Previous `pagerduty_ex` libraries are no longer active.
 
 ## Getting Started
 
